@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Cybersecurity stuff, digital forensics to be specific.<br>I'm looking to collaborate on any innovative Web Development projects or freelancing.<br>I'm looking for help with Cybersecurity related topics and resources.<br>I'm currently learning DSA in C++.<br>I've made some cool Front-end projects which I'll expand with back-end later.<br>Fun Fact : I'm batman.
+I'm currently working on Cybersecurity stuff, digital forensics to be specific.<br>I'm looking to collaborate on any innovative Web Development projects or freelancing.<br>I'm looking for help with Cybersecurity related topics and resources.<br>I'm currently learning DSA in C++.<br>I've made some cool Front-end projects which I'll expand with back-end later.
 
 
 # 💻 Tech Stack:
